@@ -21,8 +21,8 @@ Video processing:
 python3 main.py --mode video --source path/to/video.mp4
 ```
 <p float="left">
-  <img src="img6.jpg" width="300"/>
-  <img src="img7.jpg" width="300"/>
-  <img src="img6p.jpg" width="300"/>
-  <img src="img7p.jpg" width="300"/>
+  <img src="images/img6.jpg" width="300"/>
+  <img src="images/img7.jpg" width="300"/>
+  <img src="images/img6p.jpg" width="300"/>
+  <img src="images/img7p.jpg" width="300"/>
 </p>
