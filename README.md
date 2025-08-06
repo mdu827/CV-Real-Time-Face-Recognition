@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ### Usage
 Video stream from live camera:
 ```
-python3 main.py --mode image --source path/to/image.jpg
+python3 main.py --mode camera
 ```
 Images processing:
 ```
