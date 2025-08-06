@@ -19,7 +19,7 @@ def run_on_video(model, video_source):
     cap = cv2.VideoCapture(video_source)
     frame_width = int(cap.get(3))
     frame_height = int(cap.get(4))
-    save_path='runs/detect/live_cam/output.mp4'
+    save_path='runs/detect/video_predict/output.mp4'
     out = cv2.VideoWriter(
         save_path,
         cv2.VideoWriter_fourcc(*'mp4v'),
